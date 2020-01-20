@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "lerna": "2.0.0-beta.20"
+    "lerna": "3.20.2"
   },
   "name": "lerna-tutorial",
   "description": "First off, What is `lerna`? `lerna` is a tool that allows you to maintain multiple `npm` packages within one repository.",
