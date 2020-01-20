@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
+    "test": "jest --config=../../jest.config.js",
     "build": "tsc"
   },
   "keywords": [],
